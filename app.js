@@ -1,7 +1,7 @@
-// alert("Welcom To Mine Web")
-// console.log("Rao Shahbaz")
+alert("Welcom To Mine Web")
+console.log("Rao Shahbaz")
 
-// document.write("Shahbaz")
+document.write("Shahbaz")
 
 
 
@@ -12,10 +12,10 @@
 // Changeing
 
 
-// var className  = "JS CLASS"
-// var className2  = "React CLASS"
+var className  = "JS CLASS"
+var className2  = "React CLASS"
 
-// var myAge =  21
+var myAge =  21
 
 
 // var totalCalss = className + className2
