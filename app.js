@@ -18,38 +18,38 @@ var className2  = "React CLASS"
 var myAge =  21
 
 
-// var totalCalss = className + className2
+var totalCalss = className + className2
 
 
-// Concatination
-
-
-
-// console.log(totalCalss)
+Concatination
 
 
 
-
-// var className = "JS Class"
-
-
-// className = "REACT CLASS"
+console.log(totalCalss)
 
 
-// const className = "JS Class"
 
-// className = "React Class"
 
-// console.log(className)
+var className = "JS Class"
 
-// let x = Number(prompt("Typer Your  Number1 "))
-// let y = +prompt("Typer Your  Number2 ")
 
-// let newX = x * y
-// let addtion = x + y
+className = "REACT CLASS"
 
-// console.log(newX)
-// console.log(addtion)
+
+const className = "JS Class"
+
+className = "React Class"
+
+console.log(className)
+
+let x = Number(prompt("Typer Your  Number1 "))
+let y = +prompt("Typer Your  Number2 ")
+
+let newX = x * y
+let addtion = x + y
+
+console.log(newX)
+console.log(addtion)
 
 
 
